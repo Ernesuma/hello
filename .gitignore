@@ -1,3 +1,7 @@
+# Vim's tmp files
+*.*~
+*.*.swp
+
 # C++ objects and libs
 
 *.slo
